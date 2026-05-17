@@ -158,11 +158,6 @@
 				"policy": {
 					"elapsedTimeMetric": {}
 				},
-				"parameters": {
-					"file1": {
-						"type": "string"
-					}
-				},
 				"annotations": []
 			},
 			"dependsOn": [
