@@ -1,0 +1,15 @@
+{
+	"name": "soumya150526",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "29bc05cb-ca36-4dc1-bfec-42484789b2d8",
+		"tenantId": "e84c877a-644e-4fb9-a479-a1a85be60944"
+	}
+}
