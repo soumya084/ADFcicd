@@ -127,11 +127,6 @@
 				]
 			}
 		],
-		"parameters": {
-			"file1": {
-				"type": "string"
-			}
-		},
 		"annotations": []
 	}
 }
