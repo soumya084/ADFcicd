@@ -28,7 +28,7 @@
 				"activities": [
 					{
 						"name": "SourceToSink",
-						"description": "SourceToSink",
+						"description": "SourceToSink hiii",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {
